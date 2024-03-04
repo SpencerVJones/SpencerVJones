@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **jonesspencer99@icloud.com**
 
-- 📄 Know about my experiences: [https://linktr.ee/spencervjones](https://linktr.ee/spencervjones)
+- 📄 Know about my experiences: [https://spencervjones.tiiny.site/](https://spencervjones.tiiny.site/)
 
 - ⚡ Fun fact: **I play multipe instruments [Guitar, Ukulele, Piano]**
 
