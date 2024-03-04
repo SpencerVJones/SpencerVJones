@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, my name is Spencer Jones.</h1>
-<h3 align="center">I am a senior computer science student at Full Sail University working towards a career in software development</h3>
+<h3 align="center">I am a senior computer science student at Full Sail University working towards a career in software development.</h3>
 
-- 🔭 I’m currently working on **a dinosaur game in Java**
+- 🔭 I’m currently working on **a dinosaur game in Java**!
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**.
 
-- I currently reside in **Norristown, PA, USA**
+- I currently reside in **Norristown, PA, USA**.
 
-- 📫 How to reach me **jonesspencer99@icloud.com**
+- 📫 How to reach me: **jonesspencer99@icloud.com**
 
-- 📄 Know about my experiences [https://linktr.ee/spencervjones](https://linktr.ee/spencervjones)
+- 📄 Know about my experiences: [https://linktr.ee/spencervjones](https://linktr.ee/spencervjones)
 
-- ⚡ Fun fact **I play multipe instruments [Guitar, Ukulele, Piano]**
+- ⚡ Fun fact: **I play multipe instruments [Guitar, Ukulele, Piano]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
