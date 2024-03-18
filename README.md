@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [https://spencervjones.tiiny.site/](https://spencervjones.tiiny.site/)
 
-- ⚡ Fun fact: **I play multipe instruments [Guitar, Ukulele, Piano]**
+- ⚡ Fun fact: **I play multiple instruments [Guitar, Ukulele, Piano]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
