@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Spencer Jones.</h1>
 <h3 align="center">I am a senior computer science student at Full Sail University working towards a career in software development.</h3>
 
-- 🔭 I’m currently working on **a dinosaur game in Java**!
+- 🔭 I’m currently working on **a Python application**!
 
 - 🌱 I’m currently learning **Django**.
 
