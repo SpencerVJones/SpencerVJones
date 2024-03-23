@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Flask**.
 
-- 💫 I currently reside in: **Norristown, PA, USA**.
+- 💫 I currently reside in: **Norristown, Pennsylvania**.
 
 - 📫 How to reach me: **jonesspencer99@icloud.com**
 
