@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, my name is Spencer Jones.</h1>
 <h3 align="center">I am a senior computer science student at Full Sail University working towards a career in software development.</h3>
 
-- 🔭 I’m currently working on: **an iOS app**!
+- 🔭 I’m currently working on: **an iOS app**
 
-- 🌱 I’m currently learning: **.NET**.
+- 🌱 I’m currently learning: **.NET**
 
-- 💫 I currently reside in: **Norristown, Pennsylvania**.
+- 💫 I currently reside in: **Norristown, Pennsylvania**
 
 - 📫 How to reach me: **jonesspencer99@icloud.com**
 
