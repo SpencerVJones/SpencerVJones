@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **an iOS app**
 
-- 🌱 I’m currently learning: **.NET**
+- 🌱 I’m currently learning: **SwiftUI**
 
 - 💫 I currently reside in: **Norristown, Pennsylvania**
 
