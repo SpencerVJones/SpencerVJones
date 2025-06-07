@@ -1,15 +1,125 @@
-<h1 align="center">Hi 👋, my name is Spencer Jones.</h1>
-<h3 align="left">I am a currently an Application Support Analyst working towards a career in software development.</h3>
+<p align="center">
+  <img src="github-header-image.png" alt="GitHub Header Image" />
+</p>
 
-- 💫 I currently reside in: **Norristown, Pennsylvania**
-- 📫 How to reach me: **SpencerVJones@outlook.com**
+<h3 align="left">👩‍💻  About Me</h3>
+💫 I currently reside in Norristown, Pennsylvania <br> 
+🔭 I’m working remotely as an Application Support Analyst <br>
+📚 Pursuing my Master’s in Computer Science <br>  
+🎸 In my free time, I enjoy playing guitar <br>  
+📫 Reach me at: SpencerVJones@outlook.com <br> 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/spencer.jones.54584982) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gingerbreadvann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spencervjones) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28842474/spencer-jones) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@makes.spence) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/makesspence) 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+--- 
 
-# 📊 GitHub Stats:
+
+
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makes.spence) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spencervjones) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28842474/spencer-jones) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@makes.spence) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/makesspence) 
+
+---
+
+
+### 💻 Tech Stack:
+#### 🧑‍💻 Programming Languages
+<p align="left"> 
+  <img title="C#" src="https://skillicons.dev/icons?i=cs"/> 
+  <img title="Dart" src="https://skillicons.dev/icons?i=dart"/> 
+  <img title="Java" src="https://skillicons.dev/icons?i=java"/> 
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js"/> 
+  <img title="Kotlin" src="https://skillicons.dev/icons?i=kotlin"/> 
+  <img title="Objective-C" src="https://skillicons.dev/icons?i=apple"/> 
+  <img title="Python" src="https://skillicons.dev/icons?i=python"/> 
+  <img title="Swift" src="https://skillicons.dev/icons?i=swift"/> 
+
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html"/> 
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css"/> 
+</p>
+
+#### ⚙️ Frameworks & Libraries
+<p align="left"> 
+  <img title=".NET" src="https://skillicons.dev/icons?i=dotnet"/> 
+  <img title="Django" src="https://skillicons.dev/icons?i=django"/> 
+  <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>
+  <img title="Flask" src="https://skillicons.dev/icons?i=flask"/> 
+  <img title="Flutter" src="https://skillicons.dev/icons?i=flutter"/> 
+  
+  <img title="React" src="https://skillicons.dev/icons?i=react"/>
+  <img title="Express.js" src="https://skillicons.dev/icons?i=express"/> 
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs"/> 
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs"/> 
+  
+  <img title="jQuery" src="https://skillicons.dev/icons?i=jquery"/> 
+</p>
+
+#### ☁️ Cloud Platforms
+<p align="left"> 
+  <img title="AWS" src="https://skillicons.dev/icons?i=aws"/> 
+  <img title="Azure" src="https://skillicons.dev/icons?i=azure"/> 
+  <img title="Google Cloud Platform" src="https://skillicons.dev/icons?i=gcp"/> 
+  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase"/> 
+</p>
+
+#### 🧰 DevOps & CI/CD Tools
+<p align="left"> 
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker"/> 
+  <img title="Postman" src="https://skillicons.dev/icons?i=postman"/> 
+  
+  <!-- Custom icons using URLs --> 
+  <img title="Jira" src="https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX" width="50"/> 
+  <img title="Confluence" src="https://www.pillar.vc/playlist/wp-content/uploads/sites/3/2021/03/5_z16TbH_400x400.jpg" width="50"/> 
+  <img title="Trello" src="https://cdn.brandfetch.io/trello.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="50"/> 
+
+  <img title="WordPress" src="https://skillicons.dev/icons?i=wordpress"/>
+</p>
+
+#### 🗃️ Databases
+<p align="left"> 
+  <img title="Amazon DynamoDB" src="https://skillicons.dev/icons?i=dynamodb"/> 
+
+  <!-- Custom icon using URL --> 
+  <img title="Microsoft SQL Server" src="https://www.zdnet.com/a/img/resize/a5409f7deafd16e7f250c3e0bd1caf89b4ca1bc3/2020/09/16/1283a783-c6d2-4bf4-a525-c54d9ac472ce/mssql.png?auto=webp&fit=crop&height=1200&width=1200" width="50"/> 
+  
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql"/> 
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/> 
+  <img title="SQLite" src="https://skillicons.dev/icons?i=sqlite"/> 
+</p>
+
+#### 🎨 Design & UI Tools
+<p align="left"> 
+  <img title="Adobe Illustrator" src="https://skillicons.dev/icons?i=illustrator"/> 
+  <img title="Adobe Photoshop" src="https://skillicons.dev/icons?i=photoshop"/>
+  <img title="Blender" src="https://skillicons.dev/icons?i=blender"/>
+  
+  <!-- Custom icon using URL --> 
+  <img title="Canva" src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBb8YkqrmoFjcMUJULGOJelB2xofORzok428pzl5FOCZ1jR6d6AlsapO6I1.UnqojcWdNNZUQOxtY.YjIfJF3TqY-&format=source" width="50"/>
+  
+  <img title="Figma" src="https://skillicons.dev/icons?i=figma"/> 
+</p>
+
+#### 📊 Data Science & Analytics
+<p align="left"> 
+  <img title="Anaconda" src="https://skillicons.dev/icons?i=anaconda"/> 
+
+  <!-- Custom icons using URLs --> 
+  <img title="Matplotlib" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_3-4JIsx_ivTrRU-mA0jFcjLVsLzdU99TQ&s" width="50" alt="Matplotlib"/>
+  <img title="NumPy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7A1LMhho6nOw1ePGDxhc_KDWsK9kKmdDL3faqNE_kM8__7CxgdQhUwjmRVXIoHGcD0I&usqp=CAU" width="50"/> 
+  <img title="Pandas" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" width="50"/>
+</p>
+
+#### 🎮 Game Development
+<p align="left"> 
+  <img title="Unity" src="https://skillicons.dev/icons?i=unity"/> 
+</p>
+
+---
+
+
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerVJones&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
