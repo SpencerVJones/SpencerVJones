@@ -60,13 +60,13 @@
 </table>
 
  <!-- Technical Information Section -->
-<h2 align="center">👩‍💻 Tech Stack</h2>
+<h2 align="center">🧑‍💻 Tech Stack</h2>
 <table width="100%" align="center">
   <tr>
-    <td align="center"><b>Programming Languages</b></td>
-    <td align="center"><b>Frameworks & Libraries</b></td>
-    <td align="center"><b>Cloud Platforms</b></td>
-    <td align="center"><b>DevOps & CI/CD</b></td>
+    <td align="center"><b>💻 Programming Languages</b></td>
+    <td align="center"><b>⚙️ Frameworks & Libraries</b></td>
+    <td align="center"><b>☁️ Cloud Platforms</b></td>
+    <td align="center"><b>🧰 DevOps & CI/CD</b></td>
   </tr>
   <tr>
     <!-- Programming Languages -->
@@ -74,11 +74,11 @@
       <img src="https://skillicons.dev/icons?i=cs"/>
       <img src="https://skillicons.dev/icons?i=dart"/>
       <img src="https://skillicons.dev/icons?i=java"/>
-      <img src="https://skillicons.dev/icons?i=js"/><br/>
+      <img src="https://skillicons.dev/icons?i=js"/>
       <img src="https://skillicons.dev/icons?i=kotlin"/>
       <img src="https://skillicons.dev/icons?i=apple"/>
       <img src="https://skillicons.dev/icons?i=python"/>
-      <img src="https://skillicons.dev/icons?i=swift"/><br/>
+      <img src="https://skillicons.dev/icons?i=swift"/>
       <img src="https://skillicons.dev/icons?i=html"/>
       <img src="https://skillicons.dev/icons?i=css"/>
     </td>
@@ -87,11 +87,11 @@
       <img src="https://skillicons.dev/icons?i=dotnet"/>
       <img src="https://skillicons.dev/icons?i=django"/>
       <img src="https://skillicons.dev/icons?i=fastapi"/>
-      <img src="https://skillicons.dev/icons?i=flask"/><br/>
+      <img src="https://skillicons.dev/icons?i=flask"/>
       <img src="https://skillicons.dev/icons?i=flutter"/>
       <img src="https://skillicons.dev/icons?i=react"/>
       <img src="https://skillicons.dev/icons?i=express"/>
-      <img src="https://skillicons.dev/icons?i=nextjs"/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs"/>
       <img src="https://skillicons.dev/icons?i=nodejs"/>
       <img src="https://skillicons.dev/icons?i=jquery"/>
     </td>
@@ -107,16 +107,16 @@
       <img src="https://skillicons.dev/icons?i=docker"/>
       <img src="https://skillicons.dev/icons?i=postman"/>
       <img src="https://skillicons.dev/icons?i=wordpress"/>
-      <img title="Jira" src="https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX" height="47"/><br/>
+      <img title="Jira" src="https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX" height="47"/>
       <img title="Confluence" src="https://www.pillar.vc/playlist/wp-content/uploads/sites/3/2021/03/5_z16TbH_400x400.jpg" height="47"/>
       <img title="Trello" src="https://cdn.brandfetch.io/trello.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" height="47"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Databases</b></td>
-    <td align="center"><b>Design & UI</b></td>
-    <td align="center"><b>Data Science & Analytics</b></td>
-    <td align="center"><b>Game Development</b></td>
+    <td align="center"><b>🗃️ Databases</b></td>
+    <td align="center"><b>🎨 Design & UI</b></td>
+    <td align="center"><b>📈 Data Science & Analytics</b></td>
+    <td align="center"><b>🎮 Game Development</b></td>
   </tr>
   <tr>
     <!-- Databases -->
@@ -124,7 +124,7 @@
       <img src="https://skillicons.dev/icons?i=dynamodb"/>
       <img src="https://skillicons.dev/icons?i=mongodb"/>
       <img src="https://skillicons.dev/icons?i=mysql"/>
-      <img src="https://skillicons.dev/icons?i=postgres"/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres"/>
       <img src="https://skillicons.dev/icons?i=sqlite"/>
       <img title="SQL Server" src="https://www.zdnet.com/a/img/resize/a5409f7deafd16e7f250c3e0bd1caf89b4ca1bc3/2020/09/16/1283a783-c6d2-4bf4-a525-c54d9ac472ce/mssql.png?auto=webp&fit=crop&height=1200&width=1200" height="47"/>
     </td>
@@ -133,7 +133,7 @@
       <img src="https://skillicons.dev/icons?i=illustrator"/>
       <img src="https://skillicons.dev/icons?i=photoshop"/>
       <img src="https://skillicons.dev/icons?i=blender"/>
-      <img src="https://skillicons.dev/icons?i=figma"/><br/>
+      <img src="https://skillicons.dev/icons?i=figma"/>
       <img title="Canva" src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBb8YkqrmoFjcMUJULGOJelB2xofORzok428pzl5FOCZ1jR6d6AlsapO6I1.UnqojcWdNNZUQOxtY.YjIfJF3TqY-&format=source" height="47"/>
     </td>
     <!-- Data Science & Analytics -->
