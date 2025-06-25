@@ -16,7 +16,7 @@
 
 
 <!-- About Me Section -->
-<h3 align="center">🌟 About Me</h3></p>
+<h2 align="center">🌟 About Me</h2></p>
 <div align="center">
   
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SpencerVJones@Outlook.com)
