@@ -44,7 +44,6 @@
         self.name = "Spencer Jones"<br>
         self.pronouns = "He/Him"<br>
         self.role = "Remote Application Support Analyst"<br>
-        self.location = "Norristown, Pennsylvania"<br>
         self.current_focus = "Completing my master's degree in Computer Science"<br>
         self.language_spoken = "en_US"<br>
         self.hobbies = ["Guitar", "Traveling", "Painting", "Gaming", "reading"]<br>
