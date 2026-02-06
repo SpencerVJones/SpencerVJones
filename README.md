@@ -26,7 +26,7 @@
         self.pronouns = "He/Him"<br>
         self.role = "Remote Application Support Analyst"<br>
         self.current_focus = "Completing my master's degree in Computer Science"<br>
-        self.email_address = "SpencerVJones@Outlook.com
+        self.email_address = "SpencerVJones@Outlook.com"<br>
         self.language_spoken = "en_US"<br>
         self.hobbies = ["Guitar", "Traveling", "Painting", "Gaming", "Reading"]<br>
     <br>
