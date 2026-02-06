@@ -59,36 +59,36 @@ me.say_hi()
 
  
 
- <!-- Technical Information Section -->
 <h2 align="center">🧑‍💻 Tech Stack</h2>
-      <img src="https://skillicons.dev/icons?i=cs"/>
-      <img src="https://skillicons.dev/icons?i=dart"/>
-      <img src="https://skillicons.dev/icons?i=java"/>
-      <img src="https://skillicons.dev/icons?i=js"/>
-      <img src="https://skillicons.dev/icons?i=kotlin"/>
-      <img src="https://skillicons.dev/icons?i=python"/>
-      <img src="https://skillicons.dev/icons?i=swift"/>
-      <img src="https://skillicons.dev/icons?i=html"/>
-      <img src="https://skillicons.dev/icons?i=css"/>
-      <img src="https://skillicons.dev/icons?i=flask"/>
-      <img src="https://skillicons.dev/icons?i=react"/>
-      <img src="https://skillicons.dev/icons?i=express"/>
-      <img src="https://skillicons.dev/icons?i=nextjs"/>
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
-      <img src="https://skillicons.dev/icons?i=jquery"/>
-      <img src="https://skillicons.dev/icons?i=aws"/>
-      <img src="https://skillicons.dev/icons?i=azure"/>
-      <img src="https://skillicons.dev/icons?i=gcp"/>
-      <img src="https://skillicons.dev/icons?i=firebase"/>
-      <img src="https://skillicons.dev/icons?i=docker"/>
-      <img src="https://skillicons.dev/icons?i=postman"/>      
-      <img src="https://skillicons.dev/icons?i=dynamodb"/>
-      <img src="https://skillicons.dev/icons?i=mongodb"/>
-      <img src="https://skillicons.dev/icons?i=mysql"/>
-      <img src="https://skillicons.dev/icons?i=postgres"/>
-      <img src="https://skillicons.dev/icons?i=sqlite"/>
-      <img src="https://skillicons.dev/icons?i=anaconda"/>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs"/>
+  <img src="https://skillicons.dev/icons?i=dart"/>
+  <img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=js"/>
+  <img src="https://skillicons.dev/icons?i=kotlin"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=swift"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=flask"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=express"/>
+  <img src="https://skillicons.dev/icons?i=nextjs"/>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=jquery"/>
+  <img src="https://skillicons.dev/icons?i=aws"/>
+  <img src="https://skillicons.dev/icons?i=azure"/>
+  <img src="https://skillicons.dev/icons?i=gcp"/>
+  <img src="https://skillicons.dev/icons?i=firebase"/>
+  <img src="https://skillicons.dev/icons?i=docker"/>
+  <img src="https://skillicons.dev/icons?i=postman"/>
+  <img src="https://skillicons.dev/icons?i=dynamodb"/>
+  <img src="https://skillicons.dev/icons?i=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=postgres"/>
+  <img src="https://skillicons.dev/icons?i=sqlite"/>
+  <img src="https://skillicons.dev/icons?i=anaconda"/>
+</div>
 
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
